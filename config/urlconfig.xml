@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
   <infos>
-    <infosItem id="1" name="cdn" url="http://127.0.0.1/assets"/>
+    <infosItem id="1" name="cdn" url="https://github.com/ninen/atyou/tree/master/assets"/>
     <infosItem id="2" name="login_server" url="http://127.0.0.1"/>
   </infos>
 </root>
