@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+  <id>0</id>
+  <name_s>test01</name_s>
+  <ip_s>127.0.0.1</ip_s> 
+  <flag_s>2</flag_s>
+  <port_i>80</port_i>
+    <text_s>hahaha</text_s>
+  </record>
+
+  <record>
+    <id>1</id>
+    <name_s>test02</name_s>
+    <ip_s>127.0.0.1</ip_s>
+    <flag_s>2</flag_s>
+    <port_i>80</port_i>
+    <text_s>hahaha2</text_s>
+  </record>
+  
+</root>
